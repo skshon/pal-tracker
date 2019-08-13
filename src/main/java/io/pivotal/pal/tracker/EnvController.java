@@ -23,7 +23,7 @@ public class EnvController {
     ) {
         this.port = port;
         this.memoryLimit = memoryLimit;
-        this.cfInstanceIndex = cfInstanceIndex; 
+        this.cfInstanceIndex = cfInstanceIndex;
         this.cfInstanceAddress = cfInstanceAddress;
     }
 
